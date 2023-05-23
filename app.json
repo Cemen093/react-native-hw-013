@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.pili_ou77.reactnativehw013"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a90d2b62-7598-4c03-9a87-49ba14cc7c66"
+      }
+    },
+    "owner": "pili_ou77"
   }
 }
